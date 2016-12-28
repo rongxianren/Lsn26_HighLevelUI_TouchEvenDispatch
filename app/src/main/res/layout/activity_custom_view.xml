@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.rongxianren.lsn26_highlevelui_touchevendispatch.customViewPager.CustomViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_custom_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rongxianren.lsn26_highlevelui_touchevendispatch.customViewPager.CustomViewActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="#FF0000"
+        android:text="我是第一个View" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="#00FF00"
+        android:text="我是第二个View" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="#0000FF"
+        android:text="我是第三个View" />
+
+</com.rongxianren.lsn26_highlevelui_touchevendispatch.customViewPager.CustomViewPager>
